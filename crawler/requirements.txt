@@ -1,0 +1,10 @@
+aiohttp
+beautifulsoup4
+selenium
+playwright
+requests
+asyncio
+lxml
+robots.txt-parser
+redis
+pandas

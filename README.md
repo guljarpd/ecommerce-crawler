@@ -14,3 +14,11 @@ This is a scalable web crawler designed to extract product URLs from various e-c
    ```bash
    git clone https://github.com/guljarpd/ecommerce-crawler.git
    cd ecommerce-crawler
+
+2. Install by pip
+   ```bash
+   pip install -r crawler/requirements.txt
+
+3. Run 
+   ```bash
+   python crawler/crawler.py
